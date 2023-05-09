@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week4Loops\RandomNumber\obj\Debug\net6.0\RandomNumber.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week4Loops\RandomNumber\obj\Debug\net6.0\RandomNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week4Loops\RandomNumber\obj\Debug\net6.0\RandomNumber.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week4Loops\RandomNumber\obj\Debug\net6.0\RandomNumber.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week4Loops\RandomNumber\obj\Debug\net6.0\RandomNumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week4Loops\RandomNumber\bin\Debug\net6.0\RandomNumber.exe
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week4Loops\RandomNumber\bin\Debug\net6.0\RandomNumber.deps.json
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week4Loops\RandomNumber\bin\Debug\net6.0\RandomNumber.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week4Loops\RandomNumber\bin\Debug\net6.0\RandomNumber.dll
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week4Loops\RandomNumber\bin\Debug\net6.0\RandomNumber.pdb
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week4Loops\RandomNumber\obj\Debug\net6.0\RandomNumber.dll
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week4Loops\RandomNumber\obj\Debug\net6.0\refint\RandomNumber.dll
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week4Loops\RandomNumber\obj\Debug\net6.0\RandomNumber.pdb
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week4Loops\RandomNumber\obj\Debug\net6.0\RandomNumber.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week4Loops\RandomNumber\obj\Debug\net6.0\ref\RandomNumber.dll
